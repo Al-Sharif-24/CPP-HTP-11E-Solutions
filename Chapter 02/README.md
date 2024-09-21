@@ -1,33 +1,28 @@
-# Solutions to Chapter 02 - Intro to C++20 Programming
+# Intro to C++20 Programming
 
-## Table of Contents
+# Index
 
--   [Exercise 2.01 - (Fill in the blanks).](02_01.md)
--   [Exercise 2.02 - (Discuss the meaning).](02_02.md)
--   [Exercise 2.03 - (State whether true of false).](02_03.md)
--   [Exercise 2.04 - (Write a single C++ statement).](02_04.md)
--   [Exercise 2.05 - (Identify and correct the errors).](02_05.md)
--   [Exercise 2.06 - (What prints when each of the following executes?).](02_06.md)
--   [Exercise 2.07 - (Which of the following statements contain variable).](02_07.md)
--   [Exercise 2.08 - (Which of the following statements are correct).](02_08.md)
--   [Exercise 2.09 - (State the order of evaluation of the operators).](02_09.md)
--   [Exercise 2.10 - (Write a statement (or comment)).](02_10.md)
--   [Exercise 2.11 - (write a complete program).](02_11.md)
--   [Exercise 2.12 - (Arithmetic, write a program).](02_12.md)
--   [Exercise 2.13 - (Printing, write a program that prints the numbers).](02_13.md)
--   [Exercise 2.14 - (Comparing Integers, Write a program).](02_14.md)
--   [Exercise 2.15 - (Arithmetic, Smallest and Largest).](02_15.md)
--   [Exercise 2.16 - (Diameter, Circumference and Area of a Circle).](02_16.md)
--   [Exercise 2.17 - (What does the following code print?).](02_17.md)
--   [Exercise 2.18 - (Largest and Smallest Integers, write a program).](02_18.md)
--   [Exercise 2.19 - (Odd or Even, write a program).](02_19.md)
--   [Exercise 2.20 - (Multiples, write a program).](02_20.md)
--   [Exercise 2.21 - (Checkerboard Pattern).](02_21.md)
--   [Exercise 2.22 - (Integer Equivalent of a Character, Write a program).](02_22.md)
--   [Exercise 2.23 - (Digits of an Integer, Write a program).](02_23.md)
--   [Exercise 2.24 - (Table).](02_24.md)
-
----
-
--   [Next: Chapter 03](<../Chapter 03/README.md>)
--   [Back: to Chapters](../README.md)
+- [Exercise 2.1](02_01.md): Fill in the blanks.
+- [Exercsie 2.2](02_02.md): Give meaning.
+- [Exercsie 2.3](02_03.md): True or False.
+- [Exercsie 2.4](02_04.md): Write a program.
+- [Exercsie 2.5](02_05.md): Identify errors.
+- [Exercsie 2.6](02_06.md): Output of the program.
+- [Exercsie 2.7](02_07.md): Identify the statements. 
+- [Exercsie 2.8](02_08.md): Select the correct statement
+- [Exercsie 2.9](02_09.md): State the order of evaluation
+- [Exercsie 2.10](02_10.md): Write down comments
+- [Exercsie 2.11](02_11.md): Write a program
+- [Exercsie 2.12](02_12.md): Write a program
+- [Exercsie 2.13](02_13.md): Write a program
+- [Exercsie 2.14](02_14.md): Write a program
+- [Exercsie 2.15](02_15.md): Write a program
+- [Exercsie 2.16](02_16.md): Write a program
+- [Exercsie 2.17](02_17.md): Output of the program
+- [Exercsie 2.18](02_18.md): Write a Program
+- [Exercsie 2.19](02_19.md): Write a Program
+- [Exercsie 2.20](02_20.md): Write a Program
+- [Exercsie 2.21](02_21.md): Write a Program
+- [Exercsie 2.22](02_22.md): Write a Program
+- [Exercsie 2.23](02_23.md): Write a Program
+- [Exercsie 2.24](02_24.md): Write a Program

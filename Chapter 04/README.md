@@ -1,34 +1,29 @@
-# Solutions to Chapter 04 - Algorithm Development and Control Statements: Part 2
+# Algorithm Development and Control Statements: Part 2
 
-## Table of Contents
+# Index
 
--   [Exercise 4.1 (Describe the four basic elements)](04_01.md).
--   [Exercise 4.2 (Compare while and for)](04_02.md).
--   [Exercise 4.3 (Discuss a situation)](04_03.md).
--   [Exercise 4.4 (Compare break and continue)](04_04.md).
--   [Exercise 4.5 (What's Wrong with This Code?)](04_05.md).
--   [Exercise 4.6 (What does t his Code Do?)](04_06.md).
--   [Exercise 4.7 (Find the Smallest Value)](04_07.md).
--   [Exercise 4.8 (Calculating the Product of Odd Integers)](04_08.md).
--   [Exercise 4.9 (Factorials)](04_09.md).
--   [Exercise 4.10 (Modified Compound-Interest Program)](04_10.md).
--   [Exercise 4.11 (Triangle-Printing Program)](04_11.md).
--   [Exercise 4.12 (Bar-Chart Printing Program)](04_12.md).
--   [Exercise 4.13 (Calculating Sales)](04_13.md).
--   [Exercise 4.14 (What does each of the following print?)](04_14.md).
--   [Exercise 4.15 (Calculating the Value of Π)](04_15.md).
--   [Exercise 4.16 (Pythagorean Triples)](04_16.md).
--   [Exercise 4.17 (Modified Triangle-Printing Program)](04_17.md).
--   [Exercise 4.18 (De Morgan's Laws)](04_18.md).
--   [Exercise 4.19 (Diamond-Printing Program)](04_19.md).
--   [Exercise 4.20 (Modified Diamond-Printing Program)](04_20.md).
--   [Exercise 4.21 (Removing break and continue)](04_21.md).
--   [Exercise 4.22 (What Does This Code Do?)](04_22.md).
--   [Exercise 4.23 (Replacing continue with a structured Equivalent)](04_23.md).
--   [Exercise 4.24 ("The Twelve Days of Christmas" Song)](04_24.md).
--   [Exercise 4.25 (Peter Minuit Problem)](04_25.md).
-
----
-
--   [Next: Chapter 05](<../Chapter 05/README.md>)
--   [Back: to Chapters](../README.md)
+- [Exercise 4.1](04_01.md): Describe the term
+- [Exercsie 4.2](04_02.md): Compare two terms
+- [Exercsie 4.3](04_03.md): Discuss a situation
+- [Exercsie 4.4](04_04.md): Compare two terms
+- [Exercsie 4.5](04_05.md): What’s Wrong with This Code?
+- [Exercsie 4.6](04_06.md): What Does This Code Do?
+- [Exercsie 4.7](04_07.md): Find the Smallest Value
+- [Exercsie 4.8](04_08.md): Calculating the Product of Odd Integers
+- [Exercsie 4.9](04_09.md): Factorials
+- [Exercsie 4.10](04_10.md): Modified Compound-Interest Program
+- [Exercsie 4.11](04_11.md): Triangle-Printing Program
+- [Exercsie 4.12](04_12.md): Bar-Chart Printing Program
+- [Exercsie 4.13](04_13.md): Calculating Sales
+- [Exercsie 4.14](04_14.md): Whats the Output of the Code
+- [Exercsie 4.15](04_15.md): Calculating the Value of π
+- [Exercsie 4.16](04_16.md): Pythagorean Triples
+- [Exercsie 4.17](04_17.md): Modified Triangle-Printing Program
+- [Exercsie 4.18](04_18.md): De Morgan’s Law
+- [Exercsie 4.19](04_19.md): Diamond-Printing Program
+- [Exercsie 4.20](04_20.md): Modified Diamond-Printing Program
+- [Exercsie 4.21](04_21.md): Removing break and continue
+- [Exercsie 4.22](04_22.md): What Does This Code Do?
+- [Exercsie 4.23](04_23.md): Replacing continue with a Structured Equivalent
+- [Exercsie 4.24](04_24.md): “The Twelve Days of Christmas” Song
+- [Exercsie 4.25](04_25.md): Peter Minuit Problem

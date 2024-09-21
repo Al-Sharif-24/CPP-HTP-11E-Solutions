@@ -1,36 +1,31 @@
-# Solutions to Chapter 03 - Algorithm Development and Control Statements: Part 1
+# Algorithm Development and Control Statements: Part 1 
 
-## Table of Contents
+# Index
 
--   [Exercise 3.1 (Correct the Code Errors)](03_01.md).
--   [Exercise 3.2 (What Does This Program Do?)](03_02.md).
--   [Exercise 3.3 (Gas Mileage)](03_03.md).
--   [Exercise 3.4 (Credit Limits)](03_04.md).
--   [Exercise 3.5 (Sales-Commission Calculator)](03_05.md).
--   [Exercise 3.6 (Salary Calculator)](03_06.md).
--   [Exercise 3.7 (Find the Largest)](03_07.md).
--   [Exercise 3.8 (Tabular Output)](03_08.md).
--   [Exercise 3.9 (Find the Two Largest Numbers)](03_09.md).
--   [Exercise 3.10 (Validating User Input)](03_10.md).
--   [Exercise 3.11 (What Does This Program Do?)](03_11.md).
--   [Exercise 3.12 (What Does This Program Do?)](03_12.md).
--   [Exercise 3.13 (Dangling-else Problem)](03_13.md).
--   [Exercise 3.14 (Another Dangling-else Problem)](03_14.md).
--   [Exercise 3.15 (Another Dangling-else Problem)](03_15.md).
--   [Exercise 3.16 (Square of Asterisks)](03_16.md).
--   [Exercise 3.17 (Palindromes)](03_17.md).
--   [Exercise 3.18 (Printing the Decimal Equivalent of a Binary Number)](03_18.md).
--   [Exercise 3.19 (Checkerboard Pattern of Asterisks)](03_19.md).
--   [Exercise 3.20 (Multiples of 2 with an Infinite Loop)](03_20.md).
--   [Exercise 3.21 (Calculating a Circle's Diameter, Circumference and Area)](03_21.md).
--   [Exercise 3.22 (What's wrong with the following statement?)](03_22.md).
--   [Exercise 3.23 (Sides of a Triangle)](03_23.md).
--   [Exercise 3.24 (Sides of a Right Triangle)](03_24.md).
--   [Exercise 3.25 (Factorial)](03_25.md).
--   [Exercise 3.26 (Enforcing Privacy with Cryptography)](03_26.md).
--   [Exercise 3.27 (Other Boost Multiprecision Arithmetic Operations)](03_27.md).
-
----
-
--   [Next: Chapter 04](<../Chapter 04/README.md>)
--   [Back: to Chapters](../README.md)
+- [Exercise 3.1](03_01.md): Correct the code errors
+- [Exercsie 3.2](03_02.md): What does this Program do
+- [Exercsie 3.3](03_03.md): Gas Mileage
+- [Exercsie 3.4](03_04.md): Credit Limits
+- [Exercsie 3.5](03_05.md): Sales-Commission Calculator
+- [Exercsie 3.6](03_06.md): Salary Calculator
+- [Exercsie 3.7](03_07.md): Find the Largest
+- [Exercsie 3.8](03_08.md): Tabular Output
+- [Exercsie 3.9](03_09.md): Find the Two Largest Numbers
+- [Exercsie 3.10](03_10.md): Validating User Input 
+- [Exercsie 3.11](03_11.md): What Does This Program Do?
+- [Exercsie 3.12](03_12.md): What Does This Program Do?
+- [Exercsie 3.13](03_13.md): Dangling-else Problem
+- [Exercsie 3.14](03_14.md): Dangling-else Problem
+- [Exercsie 3.15](03_15.md): Dangling-else Problem
+- [Exercsie 3.16](03_16.md): Square of Asterisks
+- [Exercsie 3.17](03_17.md): Palindromes
+- [Exercsie 3.18](03_18.md): Printing the Decimal Equivalent of a Binary Number
+- [Exercsie 3.19](03_19.md): Checkerboard Pattern of Asterisks
+- [Exercsie 3.20](03_20.md): Multiples of 2 with an Infinite Loop
+- [Exercsie 3.21](03_21.md): Calculating a Circle’s Diameter, Circumference and Area
+- [Exercsie 3.22](03_22.md): Error in the code
+- [Exercsie 3.23](03_23.md): Sides of a Triangle
+- [Exercsie 3.24](03_24.md): Sides of a Right Triangle
+- [Exercsie 3.25](03_25.md): Factorial
+- [Exercsie 3.26](03_26.md): Enforcing Privacy with Cryptography
+- [Exercsie 3.27](03_27.md): Other Boost Multiprecision Arithmetic Operations
