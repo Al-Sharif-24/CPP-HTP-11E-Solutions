@@ -31,9 +31,9 @@
 - [Exercsie 5.23](05_23.md): Guess-the-Number Game Modification
 - [Exercsie 5.24](05_24.md): Recursive Exponentiation
 - [Exercsie 5.25](05_25.md): Fibonacci Series: Iterative Solution
-- [Exercise 5.26](05_26.md): Towers of Hanoi
-- [Exercsie 5.27](05_27.md): Compare two terms
-- [Exercsie 5.28](05_28.md): Discuss a situation
+- [Exercise 5.26](05_26.md): Towers of Hanoi Recursive
+- [Exercsie 5.27](05_27.md): Towers of Hanoi Iterative
+- [Exercsie 5.28](05_28.md): Visualising Recursion
 - [Exercsie 5.29](05_29.md): Compare two terms
 - [Exercsie 5.30](05_30.md): What’s Wrong with This Code?
 - [Exercsie 5.31](05_31.md): What Does This Code Do?
